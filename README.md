@@ -1,4 +1,4 @@
-<!-- # Unifi Go SDK [![GoDoc](https://godoc.org/github.com/sayedh/go-unifi?status.svg)](https://godoc.org/github.com/sayedh/go-unifi) -->
+# Unifi Go SDK [![GoDoc](https://godoc.org/github.com/sayedh/go-unifi?status.svg)](https://godoc.org/github.com/sayedh/go-unifi)
 
 This project is a fork of [paultyng/go-unifi](https://github.com/paultyng/go-unifi/), updated to support the latest Unifi Network versions.
 
