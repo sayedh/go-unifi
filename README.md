@@ -9,6 +9,7 @@ This project is a fork of [paultyng/go-unifi](https://github.com/paultyng/go-uni
 - In August 2024, this fork was created to update support for newer Unifi Network versions.
 - The code was regenerated using `go generate` in the `unifi` directory, which created many new changes to support Unifi Network version 8.3.32.
 - Work is ongoing to update the supplementary Terraform provider code at [sayedh/terraform-provider-unifi](https://github.com/sayedh/terraform-provider-unifi).
+- Latest UniFi Controler v8.4.59 is on release v1.0.1
 
 ## Versioning (from paultyng)
 
